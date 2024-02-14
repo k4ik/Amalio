@@ -3,7 +3,7 @@
         <section class="home-section">
             <article>
                 <h2>Sobre a Escola</h2>
-                <p>O Colégio Estadual Professor Amálio Pinheiro oferece educação básica para alunos do ensino fundamental e médio no Paraná. Fundado em 1978, tem como objetivo formar cidadãos críticos e conscientes.</p>
+                <p>O Colégio Estadual Professor Amálio Pinheiro oferece ensino para alunos do ensino fundamental, médio e EJA no Paraná. Fundado em 1978, tem como objetivo formar cidadãos críticos e conscientes.</p>
                 <p>Conta com equipe capacitada, infraestrutura completa e variedade de atividades extracurriculares. Prepara os alunos para os desafios do futuro em ambiente acolhedor e dedicado ao aprendizado.</p>
             </article>
             <aside>
