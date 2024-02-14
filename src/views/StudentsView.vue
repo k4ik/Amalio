@@ -17,7 +17,7 @@
             target="_blank"
             ><img src="../assets/images/linkedin.png" alt=""
           /></a>
-          <a :href="`https://instagram.com/${student.github}`" target="_blank"
+          <a :href="`https://instagram.com/${student.instagram}`" target="_blank"
             ><img src="../assets/images/instagram.png" alt=""
           /></a>
         </div>
