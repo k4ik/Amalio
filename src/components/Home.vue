@@ -51,4 +51,15 @@
             }
         }
     }
+
+    @media screen and (max-width: 880px) {
+        .home-section {
+            justify-content: center;
+            padding: 40px;
+            aside {
+                display: none;
+            }
+        }
+
+    }
 </style>
