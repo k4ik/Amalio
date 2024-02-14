@@ -85,7 +85,7 @@ export default {
 
 <style lang="scss" scoped>
   main {
-    min-height: 500px;
+    min-height: 800px;
   }
 
 .Box {

@@ -73,7 +73,7 @@ main {
   justify-items: center;
   gap: 20px;
   padding: 40px 0;
-  min-height: 500px;
+  min-height: 1000px;
 
   .card {
     max-width: 180px;
