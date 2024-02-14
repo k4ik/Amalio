@@ -32,7 +32,7 @@
     },
     methods: {
       async getData() {
-        axios.get('https://amalio-students-api.vercel.app/')
+        axios.get('https://amalio-students-api.vercel.app/index.php')
         .then(response => {
           this.students = response.data;
           console.log(response.data);

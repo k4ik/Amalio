@@ -57,7 +57,7 @@ export default {
   async mounted() {
     try {
       const response = await axios.get(
-        "https://amalio-students-api.vercel.app/alunos"
+        "https://amalio-students-api.vercel.app/index.php"
       );
       const alunos = response.data;
       const alunoId = parseInt(this.$route.params.id);
